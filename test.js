@@ -2,4 +2,4 @@
 
 var name = 'Scott';
 var greeting = 'hello ' + name;
-console.log(greeting);
+console.log(greeting); 
